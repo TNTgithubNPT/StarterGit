@@ -14,6 +14,6 @@
 
 # Example of Conflict -
 
-## This code will throw a conflict if you edit/remove text on this line.
+## I have overwritten this code, which is poor version controlled collab and will throw a conflict when i try to merge.
 
 
