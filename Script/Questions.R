@@ -14,6 +14,6 @@
 
 # Example of Conflict -
 
-## I have overwritten this code, which is poor version controlled collab and will throw a conflict when i try to merge.
+## whoops
 
 
