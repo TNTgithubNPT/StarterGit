@@ -5,12 +5,12 @@
 
 #Q1 Question for YF - please define a object in the space below using the name "A1". IE, A1 <- ....
 
-
+A1='name'
 
 
 # Question for TNT - please define a character object and called it A2
 
-
+A2='age'
 
 # Example of Conflict -
 
